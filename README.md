@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zy0x</h1>
-<h3 align="center">Become fullstack😏🔥</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=0E75B6&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Zy0x" alt="Typing SVG" />
+</p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=zy0x&label=Views&color=0e75b6&style=for-the-badge" alt="zy0x" />
