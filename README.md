@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zy0x</h1>
-<h3 align="center">Become Fullstack🔥</h3>
+<h3 align="center">Become fullstack😏🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zy0x&label=Views&color=0e75b6&style=flat" alt="zy0x" /> </p>
 
