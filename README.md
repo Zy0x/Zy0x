@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zy0x</h1>
 <h3 align="center">Become fullstack😏🔥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zy0x&label=Views&color=0e75b6&style=flat" alt="zy0x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zy0x&label=Views&color=0e75b6&style=for-the-badge" alt="zy0x" /> </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
