@@ -20,29 +20,32 @@
 
 <!-- STATS:START -->
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
+  <!-- Main Stats Card (modern card dengan icons + metrics) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Zy0x&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&border_radius=20" 
+    alt="GitHub Stats" 
+    height="180" />
 
-| Metric | Value |
-|--------|-------|
-| 🔥 Total Commits (this year) | **311** |
-| ⭐ Stars Earned | **26** |
-| 📁 Public Repos | **10** |
-| 🔀 Pull Requests | **0** |
-| 🐛 Issues Opened | **1** |
-| 👥 Followers | **6** |
+  <!-- Streak Card (dengan current streak + longest streak + fire animation feel) -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Zy0x&theme=radical&hide_border=true&border_radius=20&date_format=YYYY-MM-DD" 
+    alt="GitHub Streak" 
+    height="180" />
 
-### 🔁 Contribution Streak
+  <!-- Top Languages Card (100% dinamis sesuai tech stack repo kamu - berdasarkan ukuran kode) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy0x&layout=compact&theme=radical&hide_title=true&card_width=320&border_radius=20&langs_count=8" 
+    alt="Top Languages" 
+    height="180" />
 
-| Current Streak | Longest Streak | Total Contributions |
-|:--------------:|:--------------:|:-------------------:|
-| **1 days** | **6 days** | **320** |
-
-### 🧑‍💻 Top Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-38%25-0e75b6?style=flat-square) ![Shell](https://img.shields.io/badge/Shell-25%25-0e75b6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-25%25-0e75b6?style=flat-square) ![Python](https://img.shields.io/badge/Python-13%25-0e75b6?style=flat-square)
-
+  <br><br>
+  <p>
+    <strong>Tech stack kamu dideteksi otomatis</strong> dari semua repository di GitHub.<br>
+    <em>Semua card di atas update live setiap kali kamu push kode atau commit.</em>
+  </p>
 </div>
 
-> _Auto-updated: 2026-04-08 via GitHub Actions_
+> _Modern & animated stats • Auto-generated via GitHub Actions • 2026-04-08_
 <!-- STATS:END -->
