@@ -17,3 +17,32 @@
   </a>
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=Zy0x&theme=dark" />
 </p>
+
+<!-- STATS:START -->
+<div align="center">
+
+## 📊 GitHub Stats
+
+| Metric | Value |
+|--------|-------|
+| 🔥 Total Commits (this year) | **311** |
+| ⭐ Stars Earned | **26** |
+| 📁 Public Repos | **10** |
+| 🔀 Pull Requests | **0** |
+| 🐛 Issues Opened | **1** |
+| 👥 Followers | **6** |
+
+### 🔁 Contribution Streak
+
+| Current Streak | Longest Streak | Total Contributions |
+|:--------------:|:--------------:|:-------------------:|
+| **1 days** | **6 days** | **320** |
+
+### 🧑‍💻 Top Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-38%25-0e75b6?style=flat-square) ![Shell](https://img.shields.io/badge/Shell-25%25-0e75b6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-25%25-0e75b6?style=flat-square) ![Python](https://img.shields.io/badge/Python-13%25-0e75b6?style=flat-square)
+
+</div>
+
+> _Auto-updated: 2026-04-08 via GitHub Actions_
+<!-- STATS:END -->
