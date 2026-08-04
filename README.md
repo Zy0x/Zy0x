@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Coursera-Python%20Certified-ff02b2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Python Certified" />
   <img src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Developer" />
 </p>
-
 <h2 align="center"><b>📊 GitHub Overview</b></h2>
 
 <p align="center">
@@ -27,9 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
-
-## 🛠️ Tech Stack & Tools
+<h2 align="center"><b>🛠️ Tech Stack & Tools</b></h2></b></h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
