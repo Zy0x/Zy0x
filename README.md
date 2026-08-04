@@ -12,16 +12,16 @@
 <h2 align="center"><b>📊 GitHub Overview</b></h2>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Zy0x&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Zy0x&theme=radical&hide_border=false&border=A463F2&border_radius=15&ring=A463F2&stroke=A463F2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-one-ashen-26.vercel.app/api?username=Zy0x&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-one-ashen-26.vercel.app/api/top-langs/?username=Zy0x&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-one-ashen-26.vercel.app/api?username=Zy0x&show_icons=true&theme=radical&hide_border=false&border_color=A463F2&border_radius=15&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-one-ashen-26.vercel.app/api/top-langs/?username=Zy0x&layout=compact&langs_count=8&theme=radical&hide_border=false&border_color=A463F2&border_radius=15" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zy0x&theme=radical&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zy0x&theme=radical&area=true&hide_border=false&border=A463F2&radius=15&bg_color=141321" width="100%" alt="Activity Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
