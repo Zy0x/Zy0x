@@ -12,7 +12,7 @@
 <h2 align="center"><b>📊 GitHub Overview</b></h2>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Zy0x&theme=radical&hide_border=false&border=A463F2&border_radius=15&ring=A463F2&stroke=A463F2&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Zy0x&theme=radical&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
