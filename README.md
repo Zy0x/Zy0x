@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zy0x&theme=radical&area=true&hide_border=false&border=A463F2&radius=15&bg_color=141321" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-lemon-ten.vercel.app/graph?username=Zy0x&theme=radical&area=true&hide_border=false&border=A463F2&radius=15&bg_color=141321" width="100%" alt="Activity Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
