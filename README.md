@@ -12,7 +12,7 @@
 <h2 align="center"><b>📊 GitHub Overview</b></h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zy0x&theme=radical&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-iota-rosy.vercel.app/?user=Zy0x&theme=radical&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
