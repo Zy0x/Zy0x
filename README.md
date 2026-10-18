@@ -6,12 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Zy0x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Coursera-Python_Certified-ff0080?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Python Certified" />
   <img src="https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Developer" />
-  <a href="https://edu.google.accredible.com/adf859c0-4096-441b-b0b9-42a3fd8b29ef" target="_blank">
-    <img src="https://img.shields.io/badge/Google-Certified_Educator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Certified" />
-  </a>
-  <a href="https://edu.google.accredible.com/af47a454-57a0-4588-aa92-04c10b858b69" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Certified_Gemini_Educator-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Certified" />
-</a>
+  <a href="https://edu.google.accredible.com/adf859c0-4096-441b-b0b9-42a3fd8b29ef" target="_blank"><img src="https://img.shields.io/badge/Google-Certified_Educator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Certified" /></a>
+  <a href="https://edu.google.accredible.com/af47a454-57a0-4588-aa92-04c10b858b69" target="_blank"><img src="https://img.shields.io/badge/Google-Certified_Gemini_Educator-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Certified" /></a>
 </p>
 
 <h2 align="center"><b>📊 GitHub Overview</b></h2>
